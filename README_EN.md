@@ -108,7 +108,7 @@ npx @deepseek-ai/dsh web
 - [PerryLink/dsh-auto-review](https://github.com/PerryLink/dsh-auto-review) ⭐ 42 - A second model reviewing the approval chain: a read-only subagent returns structured allow/deny verdicts with reasoning and risk levels, fail-closed by default.
 - [PerryLink/dsh-permission-rules](https://github.com/PerryLink/dsh-permission-rules) ⭐ 15 - Declarative allow/deny/ask permission rules plus process-level network policy (built-in local HTTP/CONNECT proxy), full session audit logging, and hot rule reload.
 - [slywalker2006/dsh-passwords](https://github.com/slywalker2006/dsh-passwords) ⭐ 12 - Login gateway for the DSH web UI: multi-user accounts, bcrypt encryption, brute-force lockout, audit log, and automatic HTTPS.
-- [xiaoyuyu6420/dsh-backup](https://github.com/xiaoyuyu6420/dsh-backup) ⭐ 3 - One-click backup and restore for DSH user data (`~/.dsh`): scheduled auto-backup, sha256 integrity checks, hardened restore-path vetting, GitHub private-repo sync, and a Settings panel. Cross-platform.
+- [xiaoyuyu6420/dsh-backup](https://github.com/xiaoyuyu6420/dsh-backup) ⭐ 19 - One-click backup & restore for all DeepSeek Harness (dsh) user data (`~/.dsh`): scheduled auto-backup, upgrade snapshots, session-log doctor & repair, migration precheck (predicts which sessions an upgrade would break), out-of-process rescue console, credential redaction, GitHub sync. Cross-platform.
 
 ## Agent Skills
 
